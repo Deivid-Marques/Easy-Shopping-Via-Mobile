@@ -7,7 +7,7 @@
 <p>HTML</p>
 <p>CSS</p>
 
-<img src="https://github.com/Deivid-Marques/Easy-Shopping-Via-Mobile/blob/master/midia/phone.png?raw=true" height= 300px>   <img src="https://github.com/Deivid-Marques/Easy-Shopping-Via-Mobile/blob/master/midia/tela.png?raw=true" height=300px>
+<img src="https://github.com/Deivid-Marques/Easy-Shopping-Via-Mobile/blob/master/midia/phone.png?raw=true" height= 200px>   <img src="https://github.com/Deivid-Marques/Easy-Shopping-Via-Mobile/blob/master/midia/tela.png?raw=true" height=200px>
 <br>
 
 <P>Nesse projeto aprendi mais sobre responsividade, melhorando meu HTML e CSS </P>
